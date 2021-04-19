@@ -1,0 +1,35 @@
+body{
+    background-image: url("background.jpg");
+    background-size: contain;
+    height: 750px;
+}
+
+.heading{
+  font-size: 23px;
+  width: 100%;
+  font-weight: bolder;
+  margin: 0px;
+  color: white;
+  box-shadow: 3px 3px 9px black;
+}
+
+.note{
+  font-size: 15px;
+  color: black;
+}
+
+#song
+  {
+  	font-size: 19px;
+  	margin: 15px;
+    box-shadow: 3px 3px 9px black;
+  }
+
+  canvas{
+
+    border-color: white;
+    border-width: 15px;
+    border-style: groove;
+    margin-top: 100px;
+    border-radius: 12px;
+}
